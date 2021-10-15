@@ -159,3 +159,10 @@ git add -h # concise output
 # example 3
 man git-add
 ```
+
+### Other resources
+
+- [Learn Git Branching](https://learngitbranching.js.org/)
+- [What is a working tree in git?](https://craftquest.io/articles/what-is-the-working-tree-in-git#:~:text=Th%20Working%20Tree%20in%20Git,which%20you%20remove%20unneeded%20files)
+- [Git Workflow](https://backlog.com/git-tutorial/git-workflow/)
+- [Difference between HEAD, working tree and index in Git?](https://stackoverflow.com/questions/3689838/whats-the-difference-between-head-working-tree-and-index-in-git)
