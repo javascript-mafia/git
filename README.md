@@ -8,11 +8,11 @@
 
 ### PDF File Name Format
 ```sh
-[presenter_number]_[presenter_name]--[your-topics-here].pdf
+[presenter-number]-[presenter_name]--section-[section-number]-[your-topics-here].pdf
 ```
 Example  
 ```sh
-01_sergio_pichardo--git-status-and-git-log.pdf 
+01-sergio-pichardo--section-2-git-status-and-git-log.pdf 
 ```
 ---
 
