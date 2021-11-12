@@ -12,3 +12,11 @@
     - installing git 
     - first time setup 
     - getting help 
+
+
+## Meeting # 2
+
+
+
+## Meeting 3 - Friday, November 12, 2021
+- Git Pro: Sections 2.2, 2.3, 2.4
