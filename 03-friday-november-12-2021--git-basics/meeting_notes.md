@@ -7,28 +7,25 @@ Book: https://git-scm.com/book/en/v2
 Meeting link: https://meet.google.com/eri-rxmn-pmk
 
 ## Presenters + topics
-Sergio 
+1. Sergio 
 - short status 
 - removing files 
 - moving files 
 - viewing commit history
 - limiting log output
 
-Andy 
+2. Andy 
 - Ignoring files 
 - viewing staged and unstaged changes 
 
-Jack 
+3. Jack 
 - committing changes 
 - skipping to the staging area 
 
-Miles 
+4. Miles 
 - Undoing things 
 - Unstaging a staged file 
 
-Ra'ees (Will present in next study session)
-- Unmodifying a modified file 
-
-Nina 
+5. Nina 
 - Undoing things with Git Restore
 
