@@ -10,12 +10,18 @@
 ```sh
 [presenter-number]-[presenter_name]--section-[section-number]-[your-topics-here].pdf
 ```
-Example  
+If presenter-number is less than 10, prefix with `0`.
+
+
+### Example  
 ```sh
 01-sergio-pichardo--section-2-git-status-and-git-log.pdf 
 ```
-**NOTE: Please add your resources to the correct meeting directory
-e.g. If resource is for meeting # 3 add to `03-friday-november-12-2021--git-basics`
+
+
+**NOTE: Please add your resources to the correct meeting directory**
+- e.g. If resource is for meeting # 3 add to `03-friday-november-12-2021--git-basics`
+
 ---
 
 ## Meetings Log 
