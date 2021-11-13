@@ -14,6 +14,8 @@ Example
 ```sh
 01-sergio-pichardo--section-2-git-status-and-git-log.pdf 
 ```
+**NOTE: Please add your resources to the correct meeting directory
+e.g. If resource is for meeting # 3 add to `03-friday-november-12-2021--git-basics`
 ---
 
 ## Meetings Log 
